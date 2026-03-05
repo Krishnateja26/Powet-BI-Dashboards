@@ -14,13 +14,21 @@ Welcome to my Power BI Dashboards Repository, where I am challenging myself to b
 Each dashboard follows a structured 9-step development lifecycle:
 
 1.Requirement Gathering
+
 2.Data Collection
+
 3.Data Transformation & Modeling
+
 4.Visualization Blueprint
+
 5.Dashboard Layout & Design
+
 6.Interactivity & Navigation
+
 7.Testing
+
 8.Sharing
+
 9.Maintenance & Refresh
 
 ## 🔄 Dashboard Overview<br>
@@ -69,11 +77,16 @@ Each dashboard follows a structured 9-step development lifecycle:
 ## 🙏 Acknowledgments<br>
 
 Special thanks to Colorstech Training (By Slidescope) for their datasets, dashboard tutorials, and consistent learning resources.
+
 📺 YouTube Channel: Colorstech
+
 🌐 Website: colorstech.net/data-science-course-training
 
 ## 👤 Author<br>
-Roop Chandrika Mallela
+Krishna Teja Reddy Suram
+
 📍 Power BI Developer | Data Analyst | Storytelling with Data
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/krishna-teja-reddy-s-93b210231/)
+
 🔗 [My Portfolio](https://krishnateja26.github.io/KrishnaTeja_Portfolio-/)
