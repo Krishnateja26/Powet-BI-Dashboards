@@ -1,45 +1,63 @@
-# 📊 Day 1: Sales Performance Dashboard<br>
+# 🌍 Earthquake Analysis Dashboard (1900–2014)
 
-## 🔍 Objective:
+This Power BI dashboard is part of my **20-Day Dashboarding Challenge (Day 14)**. It presents a comprehensive analysis of global earthquake activity from 1900 to 2014, focusing on magnitude, depth, location, and temporal patterns to uncover seismic trends and support geospatial decision-making.
 
-Analyze and present comprehensive insights into key sales metrics including:
+---
 
-* ✅ Total Sales
+## 📁 Dataset Overview
 
-* ✅ Total Profit
+- **Source:** Public earthquake data (1900–2014)
+- **Records:** 8,313 earthquake events
+- **Key Fields:** Date, Location, Depth (km), Magnitude, Magnitude Type
 
-* ✅ Profit Margin
+---
 
-* ✅ Top Cities by Sales
+## 🎯 Objective
 
-* ✅ Sales vs Previous Year (Product, Month)
+- Analyze global seismic activity by year, month, location, and depth
+- Identify magnitude and depth distributions
+- Correlate spatial and temporal trends to support risk assessment
 
-* ✅ Profit by Channel Comparison
+---
 
-* ✅ Sales by Customer with YOY Comparison
+## 📊 Visuals & Insights
 
-## 🧩 Features:
+| Visualization | Description |
+|---------------|-------------|
+| **Total Earthquakes by Place (Map)** | Geographical distribution of earthquakes worldwide |
+| **Total Earthquakes by Year** | Long-term trend of increasing earthquake frequency |
+| **Total Earthquakes by Month** | April has the highest frequency (786), February the lowest (628) |
+| **Depth Histogram** | Most quakes occurred at shallow depths (<100 km) |
+| **Magnitude Distribution** | Most events between magnitude 6–7; few above 9 |
+| **Depth vs Magnitude (Scatterplot)** | Visual correlation between depth and quake intensity |
+| **Filters** | By magnitude type and date range for interactive exploration |
 
-* Dynamic filtering using slicers (Date, City, Product, Channel)
+---
 
-* KPIs and comparison visuals (current vs previous year)
+## 🛠 Tools Used
 
-* Pie charts, bar charts, and line graphs for deeper insights
+- **Power BI Desktop**
+- DAX & Power Query
+- Bing Maps Integration
+- Custom Tooltips and Slicers
 
-* Clean and professional layout with intuitive interactivity
+---
 
-## 📷 Screenshot:
-Sales Dashboard
+## 💼 Business & Research Applications
 
-## Power BI Link
+- **Urban Planning:** Guide infrastructure design in high-risk zones  
+- **Insurance & Risk Modeling:** Inform premium rates based on regional seismic activity  
+- **Disaster Management Agencies:** Support response preparation and resource allocation  
+- **Academia & Research:** Study tectonic trends and temporal anomalies
 
-(https://app.powerbi.com/groups/me/reports/2f911e4d-d32a-4fd9-94f3-85523f81120c/0e86fedbfb97caf4cd97?experience=power-bi)
+---
 
-## 💡 Technologies Used
+## 🚀 Getting Started
 
-* Power BI Desktop
+1. Open `Earthquake_Analysis.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+2. Use filters to narrow down by year, magnitude type, or region
+3. Hover over visuals for tooltips and insights
 
-* Power Query (M Language)
+---
 
-* DAX (Data Analysis Expressions)
-* Data Modeling & Relationships
+*This dashboard is part of a hands-on learning challenge to improve storytelling with data, one visual at a time.*
